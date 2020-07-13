@@ -1,6 +1,6 @@
 # Hi, I'm Konstantin. 👋
 
-![](https://habrastorage.org/webt/wm/4z/qf/wm4zqf8cj_xjk8jx-qvzctlxbmu.jpeg)
+![](https://habrastorage.org/webt/dj/ea/wz/djeawzfov9jtf3xcbcukpxgrwas.jpeg)
 
 I'm a student, who studies on software engingeering. **I really love programming!** My favorite stack is .NET. A lot of my projects was made by me, using .NET and .NET Core.
 
