@@ -1,7 +1,9 @@
 # Hi, I'm Konstantin. 👋
 
 I'm a student, who studies on software engingeering. **I really love programming!** My favorite stack is .NET. A lot of my projects was made by me, using .NET and .NET Core.
+
 Also, I familiar with Java, SQL, C/C++, Python, HTML, CSS and JS. They are also good, but they cannot replace .NET Core. 
+
 I worked with Docker, MySQL, MS SQL, Unity, GTK. 
 
 Except programming, I do sport, especially football (soccer) and athletic. I like to run with people. Better it can be team play and emotional, like in football!
