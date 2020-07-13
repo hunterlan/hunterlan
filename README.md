@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Konstantin. 👋
 
-<!--
-**hunterlan/hunterlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student, who studies on software engingeering. **I really love programming!** My favorite stack is .NET. A lot of my projects was made by me, using .NET and .NET Core.
+Also, I familiar with Java, SQL, C/C++, Python, HTML, CSS and JS. They are also good, but they cannot replace .NET Core. 
+I worked with Docker, MySQL, MS SQL, Unity, GTK. 
 
-Here are some ideas to get you started:
+Except programming, I do sport, especially football (soccer) and athletic. I like to run with people. Better it can be team play and emotional, like in football!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also, I'm a volunteer and change the world around me!
+
+You can find me here:
+
+- My minds on Twitter: [Open it carefully](https://twitter.com/hunter_programm)
+- Me on Facebook: [Clickable](https://www.facebook.com/people/Konstantin-Sharykin/100010356492384)
+- My CV: [Here](...)
