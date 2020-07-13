@@ -12,4 +12,4 @@ You can find me here:
 
 - My minds on Twitter: [Open it carefully](https://twitter.com/hunter_programm)
 - Me on Facebook: [Clickable](https://www.facebook.com/people/Konstantin-Sharykin/100010356492384)
-- My CV: [Here](...)
+- My CV: [Here](https://github.com/hunterlan/hunterlan/blob/master/MyCV.pdf)
