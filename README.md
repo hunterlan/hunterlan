@@ -1,5 +1,7 @@
 # Hi, I'm Konstantin. 👋
 
+![](https://habrastorage.org/webt/wm/4z/qf/wm4zqf8cj_xjk8jx-qvzctlxbmu.jpeg)
+
 I'm a student, who studies on software engingeering. **I really love programming!** My favorite stack is .NET. A lot of my projects was made by me, using .NET and .NET Core.
 
 Also, I familiar with Java, SQL, C/C++, Python, HTML, CSS and JS. They are also good, but they cannot replace .NET Core. 
