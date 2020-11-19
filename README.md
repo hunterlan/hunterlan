@@ -14,6 +14,5 @@ Also, I'm a volunteer and change the world around me!
 
 You can find me here:
 
-- My minds on Twitter: [Open it carefully](https://twitter.com/hunter_programm)
 - Me on Facebook: [Clickable](https://www.facebook.com/people/Konstantin-Sharykin/100010356492384)
 - My CV: [Here](https://github.com/hunterlan/hunterlan/blob/master/CV_Konstantin_Sharykin.pdf)
