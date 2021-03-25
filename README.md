@@ -1,4 +1,4 @@
-# Hi, I'm Konstantin. 👋
+# Hi, I'm Kostiantyn. 👋
 
 ![](https://habrastorage.org/webt/dj/ea/wz/djeawzfov9jtf3xcbcukpxgrwas.jpeg)
 
