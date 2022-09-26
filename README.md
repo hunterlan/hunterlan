@@ -25,6 +25,8 @@ Also worked with WPF, GTK, Linux, C/C++, Assembler, Python, Java, PHP and made r
 
 I finished Kharkiv Polytechnic Instute on July 2022 on specialisation **computer and information technolog**y, where we learnt software and hardware subject.
 
+On October 2022, I start my master degree in Polish - Japanese Academy Information Technology on computer science.
+
 I'm sincere and kind person, who love to learn everything. I can work with Photoshop and Premier Pro, tried Cinema 4D and etc. My favourite hobbies - walking, reading books, play computer games, do sport (football, running), travelling and more!
 
 I'm volunteer of "Build Ukraine Together", where we help social vulnerable people with some kind of home renovation. 
