@@ -1,6 +1,7 @@
 # Hi, I'm Kostiantyn. 👋
 
-![](https://habrastorage.org/webt/dj/ea/wz/djeawzfov9jtf3xcbcukpxgrwas.jpeg)
+![GitHub prof](https://user-images.githubusercontent.com/38838841/192261839-b2a399b2-aa06-41d5-b6bb-0eb344ffd1a5.png)
+
 
 **Welcome to my page!** I'm a person, who passionate with programming and thinki about it everyday. 
 
