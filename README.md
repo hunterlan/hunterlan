@@ -34,4 +34,4 @@ You can find me here:
 
 - Me on [Twitter](https://twitter.com/KSharykin)
 - Me on [LinkedIn](https://www.linkedin.com/in/kostiantyn-sharykin-56781a224/)
-- My [CV](https://github.com/hunterlan/hunterlan/blob/master/CV_Konstantin_Sharykin.pdf)
+- My [CV](https://github.com/hunterlan/hunterlan/blob/master/Kostiantyn_Sharykin_CV_2022.pdf)
