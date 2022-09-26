@@ -3,11 +3,11 @@
 ![GitHub prof](https://user-images.githubusercontent.com/38838841/192261839-b2a399b2-aa06-41d5-b6bb-0eb344ffd1a5.png)
 
 
-**Welcome to my page!** I'm a person, who passionate with programming and thinki about it everyday. 
+**Welcome to my page!** I'm a person, who passionate with programming and thinking about it everyday. 
 
-I'm a **.NET Full-Stack programmer** and now work in Sysonline, with "EzPartsWeb.Mobile", which has aim to facilitate work for dealers with parts, when they work by phone.
+I'm a **.NET Full-Stack programmer** and now work in Sysonline with "EzPartsWeb.Mobile", which has aim to facilitate work for dealers with parts, when they work by phone.
 
-Also I have own projects, and from time to time I work with them, but no one has finished yet.
+Also I have own projects, and in free time I work with them, but no one has finished yet.
 
 ## This is my skills
 
@@ -23,9 +23,9 @@ MySQL | 5/10 | The same as MS SQL
 
 Also worked with WPF, GTK, Linux, C/C++, Assembler, Python, Java, PHP and made reverse - engineering
 
-I will finished Kharkiv Polytechnic Instute in July 2022 on specialisation computer and information technology, where except software subject, we learn hardware subject.
+I finished Kharkiv Polytechnic Instute on July 2022 on specialisation **computer and information technolog**y, where we learnt software and hardware subject.
 
-I'm sincere and kind person, who love to learn everything. I can work with Photoshop and Premier Pro, tried Cinema 4D and etc. My favourite hobbies - walking, reading books, play computer games and do sport (football, running).
+I'm sincere and kind person, who love to learn everything. I can work with Photoshop and Premier Pro, tried Cinema 4D and etc. My favourite hobbies - walking, reading books, play computer games, do sport (football, running), travelling and more!
 
 I'm volunteer of "Build Ukraine Together", where we help social vulnerable people with some kind of home renovation. 
 
