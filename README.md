@@ -1,40 +1,42 @@
 # Hi, I'm Kostiantyn. 👋
 
-![GitHub prof](https://user-images.githubusercontent.com/38838841/192261839-b2a399b2-aa06-41d5-b6bb-0eb344ffd1a5.png)
+**Welcome to my page!** I'm a person, who passionate with programming and thinking about it everyday.
 
+I'm a **.NET Full-Stack programmer** and work in Sysonline on "EzPartsWeb.Mobile" project. It has aim to facilitate work for dealers with parts when they work by phone.
 
-**Welcome to my page!** I'm a person, who passionate with programming and thinking about it everyday. 
+Also, I have own projects, and in free time I work with them, and some of them has already finished.
 
-I'm a **.NET Full-Stack programmer** and now work in Sysonline with "EzPartsWeb.Mobile", which has aim to facilitate work for dealers with parts, when they work by phone.
+I finished Kharkiv Polytechnic Institute on July 2022, **computer and information technology** specialisation, where I learnt software and hardware enginerring related subjects.
 
-Also I have own projects, and in free time I work with them, but no one has finished yet.
+On October 2022, I start my master’s degree in Polish - Japanese Academy Information Technology on Computer Science faculty.
 
-## This is my skills
+I'm sincere and kind person, who love to learn everything. I can work with Photoshop and Premier Pro, tried Cinema 4D. However, now I’m trying to use free and open-source applications. 
 
-Name of skill | Rate | Comments
------ | ----- | ----- 
-C# | 8/10 | Of course I know it because it's my main language. However, I'm sure I don't know some deep things.
-SQL | 6/10 | I can write quite complicated scripts, but have never used variables and IF...ELSE.
-HTML, CSS, JS | 8/10 | It's quite simple things, like 2x2. There are some new features that I've never used yet.
-Angular | 7/10 | I've started to learn it on my work. Know a lot of tricks, but I'm sure there are many things that I have to discover.
-Docker | 9/10 | Docker doesn't require a lot of knowledge. However, I worked a lot with it, and due to this, know how to write ```DOCKERFILE``` and ```docker-compose.yml```, to connect two containers by network and copy files from/to container.
-MS SQL | 5/10 | I have only basic knowledge of this DB by Microsoft. Have never administrate it.
-MySQL | 5/10 | The same as MS SQL
+My favourite hobbies:
+- Walking
 
-Also worked with WPF, GTK, Linux, C/C++, Assembler, Python, Java, PHP and made reverse - engineering
+If I have enough time and destination place is not too far away, I will prefer walk. Also, during walks, I can get some solutions or just reflex on something.
+- Reading books
 
-I finished Kharkiv Polytechnic Instute on July 2022 on specialisation **computer and information technolog**y, where we learnt software and hardware subject.
+My favourite genre is sci-fi! However, it doesn't mean that I won't read other genres. Connect with me on [Goodreads](https://www.goodreads.com/user/show/165497808-kostiantyn-sharykin)! 
+- Play computer games
 
-On October 2022, I start my master degree in Polish - Japanese Academy Information Technology on computer science.
+Racings, sport sims, shooters - all of that I play!
+- Do sport (football, running, karate)
+- Wikipedia
 
-I'm sincere and kind person, who love to learn everything. I can work with Photoshop and Premier Pro, tried Cinema 4D and etc. My favourite hobbies - walking, reading books, play computer games, do sport (football, running), travelling and more!
+I like to refresh articles and translate them on Ukrainian Wikipedia.
+- Travelling
 
-I'm volunteer of "Build Ukraine Together", where we help social vulnerable people with some kind of home renovation. 
-
-Be happy and carry love to everybody ♥
+I already visited five countries and want to visit more!
 
 You can find me here:
 
-- Me on [Twitter](https://twitter.com/KSharykin)
-- Me on [LinkedIn](https://www.linkedin.com/in/kostiantyn-sharykin-56781a224/)
-- My [CV](https://github.com/hunterlan/hunterlan/blob/master/Kostiantyn_Sharykin_CV_2022.pdf)
+- On [Mastodon](https://mastodon.social/@hunterlan)
+- On [LinkedIn](https://www.linkedin.com/in/kostiantyn-sharykin-56781a224/)
+
+There is my [CV](https://github.com/hunterlan/hunterlan/blob/master/Kostiantyn_Sharykin_CV_2022.pdf).
+
+Be happy and carry love to everybody ♥
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunterlan&layout=compact)
