@@ -35,7 +35,7 @@ You can find me here:
 - On [Mastodon](https://mastodon.social/@hunterlan)
 - On [LinkedIn](https://www.linkedin.com/in/kostiantyn-sharykin-56781a224/)
 
-There is my [CV](https://github.com/hunterlan/hunterlan/blob/master/Kostiantyn_Sharykin_CV_2022.pdf).
+There is my [CV](https://github.com/hunterlan/hunterlan/blob/master/CV_Middle_NET_Full_Stack_Developer_Kostiantyn_Sharykin_15_02_2024.pdf).
 
 Be happy and carry love to everybody ♥
 
